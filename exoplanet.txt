@@ -1,0 +1,15 @@
+Exoplanetary Frontiers: Detection and comprhensive study.
+
+
+
+
+
+Libraries 
+	beautiful soup
+	sci-kit leran
+	pandas
+	lightkurve
+	radvel
+	numpy
+	astropy 
+	
